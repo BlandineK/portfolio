@@ -1,0 +1,21 @@
+body{
+  background-image:url(https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg);
+  background-size:cover;
+  background-repeat:no-repeat;
+  color: white;
+  font-weight:400;
+}
+.container{
+     border-block-end: 2px dotted grey;
+     text-align:center;
+     color: black;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-style:oblique;
+     font-size:22px;
+}
+#contact{
+     background-color: darkkhaki;
+}
+span{
+    color: darkgray;
+}
